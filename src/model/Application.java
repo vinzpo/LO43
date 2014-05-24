@@ -16,7 +16,7 @@ import javax.swing.JColorChooser;
 
 import view.*;
 import controller.*;
-d
+
 public class Application {
 	// Quelques constantes
 	public final static float ZOOM_MAX = (float) 1;
